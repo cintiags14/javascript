@@ -154,3 +154,13 @@ while(n <= 50){
     n = n+1;
 }
 */
+
+let a = 5;
+let b = 2;
+if(a > b){
+    console.log("É maior");
+}
+else{
+    console.log("É menor");
+}
+
